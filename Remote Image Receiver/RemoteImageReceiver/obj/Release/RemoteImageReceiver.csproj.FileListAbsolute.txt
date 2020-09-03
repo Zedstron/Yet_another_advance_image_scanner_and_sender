@@ -1,0 +1,10 @@
+D:\Projects\Remote Image Scanner\Remote Image Receiver\RemoteImageReceiver\bin\Release\Image Receiver.exe
+D:\Projects\Remote Image Scanner\Remote Image Receiver\RemoteImageReceiver\bin\Release\Image Receiver.pdb
+D:\Projects\Remote Image Scanner\Remote Image Receiver\RemoteImageReceiver\obj\Release\RemoteImageReceiver.Forms.LoggerOutput.resources
+D:\Projects\Remote Image Scanner\Remote Image Receiver\RemoteImageReceiver\obj\Release\RemoteImageReceiver.MainForm.resources
+D:\Projects\Remote Image Scanner\Remote Image Receiver\RemoteImageReceiver\obj\Release\RemoteImageReceiver.Properties.Resources.resources
+D:\Projects\Remote Image Scanner\Remote Image Receiver\RemoteImageReceiver\obj\Release\RemoteImageReceiver.SplashScreen.resources
+D:\Projects\Remote Image Scanner\Remote Image Receiver\RemoteImageReceiver\obj\Release\RemoteImageReceiver.csproj.GenerateResource.cache
+D:\Projects\Remote Image Scanner\Remote Image Receiver\RemoteImageReceiver\obj\Release\RemoteImageReceiver.csproj.CoreCompileInputs.cache
+D:\Projects\Remote Image Scanner\Remote Image Receiver\RemoteImageReceiver\obj\Release\Image Receiver.exe
+D:\Projects\Remote Image Scanner\Remote Image Receiver\RemoteImageReceiver\obj\Release\Image Receiver.pdb
